@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Lin Buxiao',
+  title: '宇宙记实录',
+  author: 'linbuxiao',
   email: 'linbuxiao@gmail.com',
   link: 'https://linbuxiao.vercel.app/',
   description: 'This gonna be an awesome website.',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
